@@ -4,3 +4,6 @@
 {\*\expandedcolortbl;;}
 \margl1440\margr1440\vieww11520\viewh8400\viewkind0
 }
+-- Base de datos relacional glob_gusters
+-- Autor: Juan Salamanca
+-- Fecha: 2024-06-15
